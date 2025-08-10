@@ -13,3 +13,13 @@ body{
     #0a0a0a,#3a4452);
  */
 }
+main{
+    padding:20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color:rgba(0, 0, 0, 0.164);
+    box-shadow: 5px 5px 5px grey;
+    background: linear-gradient(45deg,
+    #0a0a0a,#3a4452);
+
+}
